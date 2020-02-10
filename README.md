@@ -5,13 +5,12 @@ HomePage for recrutment purpose and navigate.
 
 Repository/Folder | Description
 ---- | ---
-
-[ActiveDirectory]
-[Network]
-[Other]
+[ActiveDirectory] | Script to help with evryday duty with ActiveDirectory, like reset passwords.
+[Network] | Scripts who helping with diagnostic network etc. Include TeamViewer...
+[Other] | Bunch of other scripts, what probably are write without philosophy of PowerShell Microsoft, because they are to specifite or too big.
 
 ![Bash](Bash.jpg)
 
 Repository | Description
 ---- | ---
-[Other]
+[Other] | ...
